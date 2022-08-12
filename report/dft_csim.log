@@ -1,0 +1,12 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Generating csim.exe
+----------------------------------------------
+   RMSE(R)           RMSE(I)
+2.344190835952759 2.572556734085083
+----------------------------------------------
+*******************************************
+FAIL: Output DOES NOT match the golden output
+*******************************************
+ERR: [SIM 100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 3] *************** CSIM finish ***************
